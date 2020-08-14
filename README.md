@@ -2,7 +2,8 @@
 **（如果对于代码有疑惑或者代码中有错误，请在GitHub仓库开新的Issue指出。）**  
 
 > 从2020.08.14开始基于Github & Pycharm学习第三章及以后内容  by Yic  
-> 从本地硬盘生成repository，测试push
+> 从本地硬盘生成repository，测试push  
+> online 编辑测试 by Yic
 
 ## 源代码目录
 

@@ -1,8 +1,9 @@
 # 《深入浅出PyTorch——从模型到源码》书籍源代码
 **（如果对于代码有疑惑或者代码中有错误，请在GitHub仓库开新的Issue指出。）**  
 
-> 从2020.08.14开始基于Github & Pycharm学习第三章及以后内容  by Yic
-  
+> 从2020.08.14开始基于Github & Pycharm学习第三章及以后内容  by Yic  
+> 从本地硬盘生成repository，测试push
+
 ## 源代码目录
 
 ## 1. 第一章 深度学习概念简介
@@ -225,7 +226,7 @@
 
 **代码8.18-8.22** [PyTorch静态模型的保存和载入](./Chapter8/ex_8_18)
 
-## 第九章 PyTorch 源代码解析 
+## 第九章 PyTorch 源代码解析
 
 **代码9.1** [native_functions.yaml文件的声明](./ex_9_1.yaml)
 

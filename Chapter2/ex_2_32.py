@@ -1,10 +1,12 @@
 """ 该代码仅为演示类的构造方法所用，并不能实际运行
 """
+from torch.utils import data
+from torchvision.datasets.folder import make_dataset
+
 
 class VisionDataset(data.Dataset):
-    def __init__(self, root, transforms=None, transform=None, 
-        target_transform=None):
-        # ...
+    def __init__(self, root, transforms=None, transform=None, target_transform=None):
+        pass
 
     def __getitem__(self, index):
         raise NotImplementedError
